@@ -1,0 +1,205 @@
+{
+  "guilds": {
+    "1407476897730003004": {
+      "antiSpam": {
+        "maxMessages": 5,
+        "intervalSeconds": 10,
+        "action": "delete",
+        "muteRoleId": null,
+        "immuneRoleIds": []
+      },
+      "permissions": {
+        "allowedUserIds": [
+          "1217255653584801885"
+        ],
+        "allowedRoleIds": []
+      },
+      "commands": {
+        "nuke": {
+          "allowedRoleIds": []
+        },
+        "clear": {
+          "allowedRoleIds": []
+        }
+      },
+      "instagram": {
+        "postChannelId": null,
+        "highlightChannelId": null,
+        "highlightRoleId": null,
+        "storageChannelId": null,
+        "clearHighlightEnabled": false,
+        "clearHighlightAfterDays": 7,
+        "emojis": {
+          "like": "❤️",
+          "comment": "💬",
+          "info": "⋯",
+          "delete": "🗑️"
+        }
+      },
+      "server": {
+        "logs": {
+          "bans": {
+            "ban": null,
+            "unban": null,
+            "kick": null
+          },
+          "roles": {
+            "create": null,
+            "delete": null,
+            "update": null,
+            "add": null,
+            "remove": null
+          },
+          "channels": {
+            "create": null,
+            "delete": null,
+            "update": null
+          },
+          "mutes": {
+            "chat": null,
+            "voice": null
+          },
+          "bots": {
+            "add": null
+          },
+          "joins": {
+            "join": null,
+            "leave": null
+          },
+          "messages": {
+            "delete": null,
+            "update": null
+          },
+          "voice": {
+            "traffic": null
+          }
+        },
+        "autoRole": {
+          "enabled": false,
+          "memberRoleId": null,
+          "botRoleId": null,
+          "boosterRoleId": null
+        }
+      },
+      "savedEmbeds": [],
+      "instapet": {
+        "postChannelId": "1473280432350040237",
+        "highlightChannelId": "1473280444597272718",
+        "highlightRoleId": "1407477441902940171",
+        "storageChannelId": "1473280475379269653",
+        "clearHighlightEnabled": false,
+        "clearHighlightAfterDays": 7,
+        "emojis": {
+          "like": "❤️",
+          "comment": "💬",
+          "info": "⋯",
+          "delete": "🗑️"
+        }
+      }
+    },
+    "1230223406931116062": {
+      "antiSpam": {
+        "maxMessages": 5,
+        "intervalSeconds": 10,
+        "action": "delete",
+        "muteRoleId": null,
+        "immuneRoleIds": []
+      },
+      "permissions": {
+        "allowedUserIds": [
+          "1217255653584801885",
+          "1378768749812912238"
+        ],
+        "allowedRoleIds": []
+      },
+      "commands": {
+        "nuke": {
+          "allowedRoleIds": []
+        },
+        "clear": {
+          "allowedRoleIds": []
+        }
+      },
+      "instagram": {
+        "postChannelId": null,
+        "highlightChannelId": null,
+        "highlightRoleId": null,
+        "storageChannelId": null,
+        "clearHighlightEnabled": false,
+        "clearHighlightAfterDays": 7,
+        "emojis": {
+          "like": "❤️",
+          "comment": "💬",
+          "info": "⋯",
+          "delete": "🗑️"
+        }
+      },
+      "server": {
+        "logs": {
+          "bans": {
+            "ban": null,
+            "unban": null,
+            "kick": null
+          },
+          "roles": {
+            "create": null,
+            "delete": null,
+            "update": null,
+            "add": null,
+            "remove": null
+          },
+          "channels": {
+            "create": null,
+            "delete": null,
+            "update": null
+          },
+          "mutes": {
+            "chat": null,
+            "voice": null
+          },
+          "bots": {
+            "add": null
+          },
+          "joins": {
+            "join": null,
+            "leave": null
+          },
+          "messages": {
+            "delete": null,
+            "update": null
+          },
+          "voice": {
+            "traffic": null
+          }
+        },
+        "autoRole": {
+          "enabled": false,
+          "memberRoleId": null,
+          "botRoleId": null,
+          "boosterRoleId": null
+        }
+      },
+      "savedEmbeds": [],
+      "instapet": {
+        "postChannelId": null,
+        "highlightChannelId": null,
+        "highlightRoleId": null,
+        "storageChannelId": null,
+        "clearHighlightEnabled": false,
+        "clearHighlightAfterDays": 7,
+        "emojis": {
+          "like": "❤️",
+          "comment": "💬",
+          "info": "⋯",
+          "delete": "🗑️"
+        }
+      }
+    }
+  },
+  "botAppearance": {
+    "prefix": "u.",
+    "username": null,
+    "avatarUrl": null,
+    "bannerUrl": null
+  }
+}
