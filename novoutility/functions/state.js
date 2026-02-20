@@ -31,7 +31,7 @@ if (!fs.existsSync(DATABASE_DIR)) {
 
 export const igdb = new Database(INSTAGRAM_DB_PATH);
 
-gb.exec(`
+igdb.exec(`
 CREATE TABLE IF NOT EXISTS instagram_posts (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   guild_id TEXT NOT NULL,
